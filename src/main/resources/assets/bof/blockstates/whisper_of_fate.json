@@ -1,0 +1,7 @@
+{
+  "variants":{
+    "": {
+      "model": "bof:block/whisper_of_fate"
+    }
+  }
+}

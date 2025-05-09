@@ -1,0 +1,7 @@
+{
+  "variants":{
+    "": {
+      "model": "bof:block/glimpse_fate_block"
+    }
+  }
+}

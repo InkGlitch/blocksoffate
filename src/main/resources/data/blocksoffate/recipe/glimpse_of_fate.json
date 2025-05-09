@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "O": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "#O#",
+    "O#O",
+    "#O#"
+  ],
+
+  "result": {
+    "id": "bof:glimpse_of_fate",
+    "count": 1
+  }
+}
